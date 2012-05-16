@@ -2,13 +2,13 @@
 
 This package provides Sublime Text2 and Textmate syntax highlighting for the declarative/logic programming language [Mercury](http://www.mercury.csse.unimelb.edu.au/).  
 
-## Sublime Text Installation
+## Sublime Text 2 Installation
 
 ### Manual installation ###
 
 #### Without Git:
 
-Download the latest source zip from [GitHub](https://github.com/ssibelle/mercury-syntax/zipball/master) and extract the files to your Sublime Text "Packages" directory, into a new directory named `Mercury`.
+Download the latest source zip from [GitHub](https://github.com/sebastiansibelle/mercury-syntax/zipball/master) and extract the files to your Sublime Text "Packages" directory, into a new directory named `Mercury`.
 
 #### With Git:
 
