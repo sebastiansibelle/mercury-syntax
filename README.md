@@ -14,14 +14,15 @@ Download the latest source zip from [GitHub](https://github.com/sebastiansibelle
 
 Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone git://github.com/ssibelle/mercury-syntax.git Mercury
+    git clone git://github.com/sebastiansibelle/mercury-syntax.git Mercury
 
 The "Packages" directory is located at:
 
 * OS X:
     `~/Library/Application Support/Sublime Text 2/Packages/`
 * Linux:
-    `~/.Sublime Text 2/Packages/`
+    `~/.Sublime Text 2/Packages/` or
+    `~/.config/sublime-text-2/Packages`
 * Windows:
     `%APPDATA%/Sublime Text 2/Packages/`
 
